@@ -1,8 +1,8 @@
 # 💫 About Me:
 🌍 Skilled in **ArcGIS Pro** and GIS data analysis  
 🐍 Experienced with **Python** for automation and scripting  
-🚀 Recently started my journey to become a **GIS Developer** 
-📚 Currently learning web-based GIS, backend basics, and modern GIS workflows  
+Recently started my journey to become a GIS Developer 📚 
+Currently learning web-based GIS, backend basics, HTML fundamentals, and modern GIS workflows
 💡 Passionate about spatial analysis, mapping, and smart geospatial solutions
 
 
